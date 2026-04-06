@@ -1,6 +1,6 @@
 SELECT 42 as answer;
 
 SELECT DISTINCT
-      job_title_short
+      job_country
 FROM 
     job_postings_fact;
