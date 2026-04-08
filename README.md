@@ -1,6 +1,6 @@
 # SQL Data Engineering Projects
 
-The following projects are a collection of SQL project that i have worked on to practice and reinforce my skills w/ data engineering tools.
+This collection of SQL projects highlights my hands-on experience and ongoing efforts to build and refine my data engineering expertise.
 
 > Click the project name below to view the tools i used to build these
 
